@@ -6,6 +6,7 @@
 
 ##### 📕 Current: 
 - Working on multiple private projects that are not public
+- **[Delete Bulk Tweets](https://github.com/gurjaspalbedi/delete-bulk-tweets)**: Chrome exteions for deleting multiple tweets
 
 ##### 📕 Old Learnings:
 - **[Tracking Mario](https://www.youtube.com/watch?v=_InPQImES6w)**: Tracking super mario using HSV color spaces
